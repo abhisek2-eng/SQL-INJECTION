@@ -7,10 +7,6 @@ yedi web application ma sql vulneribility xa vane sql injection ko use gari hamr
 sql injection ko help le hami le web application ma code inject garera user ko data modify garne ani data haru delete garna pani sakxau sathai content haru pani change garna sakxau
 ani yes ko help le hamile dos attack pani web application ma perform garna sakxau.
 
-
-What is SQL injection (SQLi)?
-SQL injection (SQLi) is a web security vulnerability that allows an attacker to interfere with the queries that an application makes to its database. It generally allows an attacker to view data that they are not normally able to retrieve. This might include data belonging to other users, or any other data that the application itself is able to access. In many cases, an attacker can modify or delete this data, causing persistent changes to the application's content or behavior.
-
 In some situations, an attacker can escalate an SQL injection attack to compromise the underlying server or other back-end infrastructure, or perform a denial-of-service attack.
 
 
